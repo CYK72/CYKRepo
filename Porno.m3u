@@ -2,7 +2,9 @@
 
 ############### Informações da Lista ###############
 
-#EXTINF:-1 tvg-logo="" group-title="Informações da Lista",[COLOR red]### Informações da Lista ####[/COLOR]
+#EXTINF:-1 tvg-logo="" group-title="Informações da Lista",[COLOR red]########## Informações da Lista ##########
+
+[/COLOR]
 http://127.0.0.1:1234
 
 #EXTINF:-1 tvg-logo="http://s20.postimg.org/lojti2rcd/refresh.png" group-title="Informações da Lista",Revisada 
@@ -17,7 +19,9 @@ http://127.0.0.1:1234
 
 ############### Canais Adultos ###############
 
-#EXTINF:-1 tvg-logo="" group-title="Informações da Lista",[COLOR red]### Canais Adultos ####[/COLOR]
+#EXTINF:-1 tvg-logo="" group-title="Informações da Lista",[COLOR red]########## Canais Adultos ##########
+
+[/COLOR]
 http://127.0.0.1:1234
 
 #EXTINF:-1,Candy
