@@ -22,9 +22,6 @@ http://62.76.26.81:8081/candy/candy07/playlist.m3u8
 #EXTINF:-1,Penthouse
 http://195.228.11.89:4080/udp/225.255.255.75:10000
 
-#EXTINF:-1,Premium HDV
-https://web.opendrive.com/api/v1/download/file.json/Nl83MDA2NTQ0OF8?inline=1
-
 #EXTINF:-1,XXL Channel 1
 http://198.16.76.122:8000/757/LXFBCCPT4VBNBPBD
 
