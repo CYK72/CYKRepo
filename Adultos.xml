@@ -49,9 +49,7 @@
 <item>
 <title>Venus SD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/saib/fares/1653.ts</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg/revision/lates
-
-t/scale-to-width-down/250?cb=20140522221227</thumbnail>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg/revision/latest/scale-to-width-down/250?cb=20140522221227</thumbnail>
 </item>
 
 <item>
@@ -104,9 +102,7 @@ t/scale-to-width-down/250?cb=20140522221227</thumbnail>
 <item>
 <title>Penthouse HD1 SD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://dmtn-iptv.com:8080/live/98nad2503m/98nad2503m/9119.ts</link>
-<thumbnail>http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/pack-adultos-
-
-light/logos/large_penthouse.jpg</thumbnail>
+<thumbnail>http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/pack-adultos-light/logos/large_penthouse.jpg</thumbnail>
 </item>
 
 <item>
@@ -279,7 +275,7 @@ light/logos/large_penthouse.jpg</thumbnail>
 <title>Passion XXX SD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://s1.finoip.com:20000/live/s1-00330/h9VEcI9IEl/4333.ts</link>
 <thumbnail></thumbnail>
-</item>#EXTINF:-1,XX: 
+</item> 
 
 <item>
 <title>Evil Angel SD</title>
