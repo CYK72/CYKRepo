@@ -1,7 +1,54 @@
 <streamingInfos>
 
 <item>
-<title>[COLOR=red]##### IP 51.255.74.186 IPTV List #####[/COLOR]</title>
+<title>[COLOR=red]##### IP 51.255.74.186 IPTV .M3U8 List #####[/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+</item>
+
+<item>
+<title>Redlight HD 1080p</title>
+<link>http://51.255.74.186:9900/live/max/max/6813.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Venus SD</title>
+<link>http://51.255.74.186:9900/live/max/max/6828.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>New Sensation OFF</title>
+<link>http://51.255.74.186:9900/live/max/max/6826.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Hustler HD 1080p</title>
+<link>http://51.255.74.186:9900/live/max/max/6815.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Hot Club 1 SD</title>
+<link>http://51.255.74.186:9900/live/max/max/6822.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+<item>
+
+<title>Hot Club 2 SD</title>
+<link>http://51.255.74.186:9900/live/max/max/6821.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Hot SD</title>
+<link>http://51.255.74.186:9900/live/max/max/6823.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR=red]##### IP 51.255.74.186 IPTV .TS List #####[/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 </item>
 
@@ -48,19 +95,7 @@
 </item>
 
 <item>
-<title>Brazzers TV Europe SD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/6829.ts</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Dorcel HD 720p</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/6827.ts</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>[COLOR=red]##### live.softiptv.com IPTV List #####[/COLOR]</title>
+<title>[COLOR=red]##### live.softiptv.com IPTV .TS List #####[/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 </item>
 
@@ -101,7 +136,7 @@
 </item>
 
 <item>
-<title>[COLOR=red]##### globiptv.com IPTV List #####[/COLOR]</title>
+<title>[COLOR=red]##### globiptv.com IPTV .TS List #####[/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 </item>
 
@@ -142,7 +177,7 @@
 </item>
 
 <item>
-<title>[COLOR=red]##### dmtn-iptv.com IPTV List #####[/COLOR]</title>
+<title>[COLOR=red]##### dmtn-iptv.com IPTV .TS List #####[/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 </item>
 
@@ -213,7 +248,7 @@
 </item>
 
 <item>
-<title>[COLOR=red]##### s1.finoip.com IPTV List #####[/COLOR]</title>
+<title>[COLOR=red]##### s1.finoip.com IPTV .TS List #####[/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 </item>
 
@@ -296,7 +331,7 @@
 </item>
 
 <item>
-<title>[COLOR=red]##### IP 195.154.183.48 IPTV List #####[/COLOR]</title>
+<title>[COLOR=red]##### IP 195.154.183.48 IPTV .TS List #####[/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 </item>
 
