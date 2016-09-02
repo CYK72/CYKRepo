@@ -1,6 +1,29 @@
 <streamingInfos>
 
 <item>
+<title>[COLOR=red]##### IP 192.99.148.73 IPTV .TS List #####[/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+</item>
+
+<item>
+<title>Sextreme</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.148.73:8080/live/IPTVELOXmarciomartire/11uLMx6iye/92.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sexy Hot</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.148.73:8080/live/IPTVELOXmarciomartire/11uLMx6iye/91.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PlayBoy</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.148.73:8080/live/IPTVELOXmarciomartire/11uLMx6iye/90.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR=red]##### IP 51.255.74.186 IPTV .M3U8 List #####[/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 </item>
@@ -18,7 +41,13 @@
 </item>
 
 <item>
-<title>New Sensation OFF</title>
+<title>Playy 19</title>
+<link>http://51.255.74.186:9900/live/max/max/6814.m3u8</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>New Sensation HD 720p</title>
 <link>http://51.255.74.186:9900/live/max/max/6826.m3u8</link>
 <thumbnail></thumbnail>
 </item>
@@ -73,7 +102,25 @@
 </item>
 
 <item>
-<title>New Sensation OFF</title>
+<title>SCT OFF</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3m/3m/6818.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Private OFF</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3m/3m/6819.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Playy 19</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3m/3m/6814.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>New Sensation HD 720p</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/6826.ts</link>
 <thumbnail></thumbnail>
 </item>
@@ -93,6 +140,18 @@
 <item>
 <title>Brazzers/EroXXX</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.255.74.186:9900/live/kamran/kamran/6829.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EroXXX HD OFF</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3m/3m/6823.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Exotica TV OFF</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://live.softiptv.com:9900/live/3m/3m/6824.ts</link>
 <thumbnail></thumbnail>
 </item>
 
