@@ -1,6 +1,59 @@
 <streamingInfos>
 
 <item>
+<title>[COLOR=red]##### freeiptv-tuga.zapto.org IPTV .TS List #####[/COLOR]</title>
+<link>http://0.0.0.0:1234</link>
+</item>
+
+<item>
+<title>Redlight HD 1080p</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/193.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Penthouse HD1 1080p</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/200.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Hustler HD 1080p</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/194.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Sextreme SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/195.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>HOT SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/198.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>HOT HD 720p</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/199.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Playboy TV SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/196.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>Playboy TV HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/197.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>[COLOR=red]##### IP 192.99.148.73 IPTV .TS List #####[/COLOR]</title>
 <link>http://0.0.0.0:1234</link>
 </item>
