@@ -30,6 +30,12 @@
 </item>
 
 <item>
+<title>Venus SD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/201.ts</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>HOT SD</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://freeiptv-tuga.zapto.org/live/free/iptv/198.ts</link>
 <thumbnail></thumbnail>
